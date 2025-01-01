@@ -1,6 +1,6 @@
 ## Hi there 👋
-Hello, Dogs are great.
-So are dragons.
+Hello, Dragons are great.
+So are dogs? Not cats so much
 
 <!--
 **kmeng9025/kmeng9025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
